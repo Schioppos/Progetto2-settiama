@@ -1,0 +1,116 @@
+/* Your styles here */
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Montserrat:wght@700&family=Roboto:wght@400;700&display=swap');
+
+
+p,h1{
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+.text-center{
+    text-align: center;
+}
+.bg-dark{
+    color: #eaeded;
+    background-color: #364759;
+}
+#logo{
+    background-color: #222f3e;
+    height: 65px;
+}
+#logo img{
+    height: 45px;
+    width: 140px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+#lista{
+    height: 23px;
+}
+ul li{
+    font-size: 15px;
+    display: inline-block;
+    padding-left: 10px;
+    padding-top: 2px;
+}
+main{
+    background-color: #E9EDEE;
+}
+#orangeGift{
+    background-color: #F56600;
+    color: white;
+    margin-top: 20px;
+    margin-right: 25px;
+    margin-left: 25px;
+    height: 25px;
+    padding-top: 7px;
+}
+#giftBox{
+    color: white;
+    background-image: url(/assets/images/bg-image.png);
+    height: 200px;
+    margin-top: 20px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+#giftBox h1{
+    padding-top: 60px;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+section {
+    background-color: white;
+    margin-top: 30px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+section p{
+    font-weight: bold;
+    padding-left: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+span{
+    color: #169aa9;
+    padding-left: 25px;
+    font-size: 17px;
+}
+#perfectGift img{
+    height: 400px;
+    width: 300px;
+    border-radius: 10%;
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 30px;
+    padding-bottom: 15px;
+}
+.endImg{
+    margin-top: 30px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.endImg img{
+    width: 1390px;
+}
+.endImg p{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#lastItem{
+    text-align: center;
+    text-decoration: underline;
+    height: 40px;
+    margin-top: 20px;
+    padding-top: 12px;
+}   
+
+#logo2{
+    background-color: #222F3F;
+    height: 150px;
+}
+#logo2 img{
+    width: 150px;
+    padding-top: 45px;
+}
